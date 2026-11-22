@@ -7,7 +7,7 @@ Pixel art, a nine-verb interface, chiptune music and far too many jokes about he
 browser, or as a full-screen Android app.
 
 **[Play it in your browser](https://jonsolberg.se:8080/Games/NaughtyListCaper/)** ·
-**[Download the Android app](https://github.com/jonsolberg/naughtylistcaper/releases/latest/download/NaughtyListCaper.apk)**
+**[Download the Android app](https://jonsolberg.se:8080/Games/NaughtyListCaper/Android/NaughtyListCaper.apk)**
 
 <p align="center">
   <img src="docs/screenshot-desktop.png" width="720" alt="Barnaby on the snowy pier at Port Frostbite, with the verbs and his pockets below the scene">
@@ -58,7 +58,7 @@ obvious action first. Long-press to do the obvious action straight away. Your it
 
 ## Download
 
-**[Download the latest APK](https://github.com/jonsolberg/naughtylistcaper/releases/latest/download/NaughtyListCaper.apk)** · [all releases](https://github.com/jonsolberg/naughtylistcaper/releases)
+**[Download the latest APK](https://jonsolberg.se:8080/Games/NaughtyListCaper/Android/NaughtyListCaper.apk)** · [all releases](https://github.com/jonsolberg/naughtylistcaper/releases)
 
 To install the APK, allow your browser or file manager to *install unknown apps* when Android asks.
 The app needs Android 5.0 or newer, plays in landscape, and works offline.
