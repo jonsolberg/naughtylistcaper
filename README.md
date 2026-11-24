@@ -1,4 +1,4 @@
-# The Naughty List Caper
+# The Naughty List Caper (web+Android)
 
 A point-and-click Christmas adventure in the old pirate-island style. Bad boy Barnaby Sneer heads for
 the North Pole to get his name off Santa's Naughty List.
